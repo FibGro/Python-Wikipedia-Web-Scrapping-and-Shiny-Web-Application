@@ -6,6 +6,8 @@ Finally, we showcase our visualization through a web application created with Sh
 
 # Dataset 
 
+The compilation we're working with represents the world's leading companies, determined by their consolidated revenue according to the 2023 Fortune Global 500 rankings and other reliable sources. This curated list spotlights the top 50 companies, each with annual revenues exceeding US$130 billion.
+
 Link : https://en.wikipedia.org/wiki/List_of_largest_companies_by_revenue
 
 # Depedencies 
