@@ -23,7 +23,7 @@ Link : https://en.wikipedia.org/wiki/List_of_largest_companies_by_revenue
 - Install shinylive : > pip install shinylive
 - Install shinywidgets : > pip install shinywidgets 
 - Create a docs : > shiny export . docs
-- Commit the change and synch into the branch
+- Commit the change and sync into the branch
 - After completing, go to your Repo and go to Settings
 - In the sidebar, go to Pages
 - Define your source and branch. Save.
