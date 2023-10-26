@@ -16,4 +16,4 @@ Link : https://en.wikipedia.org/wiki/List_of_largest_companies_by_revenue
 
 # End Result 
 
-The link of the Shiny product : https://fibgro.github.io/Deploy_Shiny/
+The link of the Shiny product : https://fibgro.github.io/Python-Wikipedia-Web-Scrapping-and-Shiny-Web-Application/
