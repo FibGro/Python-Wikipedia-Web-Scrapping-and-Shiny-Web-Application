@@ -27,10 +27,14 @@ Link : https://en.wikipedia.org/wiki/List_of_largest_companies_by_revenue
 - Create a New Repo in GitHub
 - Add the app.py, file.csv, and CSS (if you already built in VS code include all your files)
 - Open the codespaces in your new repo and it will direct you to the terminal
-- Install shiny: > pip install shiny
-- Install shinylive : > pip install shinylive
-- Install shinywidgets : > pip install shinywidgets 
-- Create a docs : > shiny export . docs
+- Install shiny:
+    **pip install shiny**
+- Install shinylive :
+    **pip install shinylive**
+- Install shinywidgets :
+    **pip install shinywidgets**
+- Create a docs :
+    **shiny export . docs**
 - Commit the change and sync into the branch
 - After completing, go to your Repo and go to Settings
 - In the sidebar, go to Pages
