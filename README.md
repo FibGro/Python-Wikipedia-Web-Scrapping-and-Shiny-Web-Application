@@ -32,7 +32,7 @@ Link : https://en.wikipedia.org/wiki/List_of_largest_companies_by_revenue
 - Shinylive for Python
 - Github to deploy
 
-## Deploy Shiny
+## Deploy Shiny-Python on Github
 
 - Create a New Repo in GitHub
 - Add the app.py, file.csv, and CSS (if you already built in VS code include all your files)
