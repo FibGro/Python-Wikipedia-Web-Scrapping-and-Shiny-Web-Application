@@ -8,6 +8,7 @@
 * [Technologies Used](#technologies-used)
 * [Deploy Shiny](#deploy-shiny)
 * [End Result](#end-result)
+* [Acknowledgements](#Acknowledgements)
 <!-- * [License](#license) -->
 
 ## General Information
