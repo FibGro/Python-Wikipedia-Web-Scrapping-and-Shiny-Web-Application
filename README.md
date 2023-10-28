@@ -1,7 +1,7 @@
 # Python Web Scrapping and Web Application Python Shiny
 
 ## Table of Contents
-* [General Info](#general-information)
+* [General Information](#general-information)
 * [Dataset Information](#dataset-information)
 * [Technologies Used](#technologies-used)
 * [Deploy Shiny](#deploy-shiny)
