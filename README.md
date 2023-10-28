@@ -1,4 +1,4 @@
-# Python Web Scrapping and Web Application Python Shiny
+# Python Web Scrapping and Web Application Python Shiny (Top 50 Companies by Revenue)
 
 ![Example screenshot](./unsplash.jpg)
 
