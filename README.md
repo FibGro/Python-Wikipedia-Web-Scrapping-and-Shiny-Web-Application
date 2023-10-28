@@ -55,5 +55,5 @@ Link : https://en.wikipedia.org/wiki/List_of_largest_companies_by_revenue
 The link of the Shiny product : https://fibgro.github.io/Python-Wikipedia-Web-Scrapping-and-Shiny-Web-Application/
 
 ## Acknowledgements
-- The deploying Shiny for Python can be seen in this [YouTube link]([https://www.youtube.com/watch?v=eoJjtJfuUqE])
-- The beautiful picture is made by [Owen Cavlys]([https://www.example.com](https://unsplash.com/@owencavlys)https://unsplash.com/@owencavlys).
+- The deploying Shiny for Python can be seen in this [YouTube link](https://www.youtube.com/watch?v=eoJjtJfuUqE)
+- The beautiful picture is made by [Owen Cavlys](https://www.example.com](https://unsplash.com/@owencavlys)https://unsplash.com/@owencavlys).
