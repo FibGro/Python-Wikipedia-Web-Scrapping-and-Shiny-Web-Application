@@ -1,5 +1,7 @@
 # Python Web Scrapping and Web Application Python Shiny
 
+![Example screenshot](./image/Key-1.jpg)
+
 ## Table of Contents
 * [General Information](#general-information)
 * [Dataset Information](#dataset-information)
